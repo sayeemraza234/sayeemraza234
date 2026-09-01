@@ -69,8 +69,3 @@ Hi, I'm **Sayeem Raza Bellary** 👨‍💻
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayeemraza234&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
